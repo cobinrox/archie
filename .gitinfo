@@ -12,6 +12,7 @@ Download entire repo:
 ================================
 git clone https://github.com/cobinrox/archie
 
-Check status:
+Check status wrt remote repo:
 ================================
+git remote update
 git status
