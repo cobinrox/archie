@@ -3,3 +3,11 @@ Commit new files/dirs:
 git add --all
 git commit -am "add more files"
 git push
+
+Download new files:
+================================
+git pull
+
+Download entire repo:
+================================
+git clone https://github.com/cobinrox/archie
