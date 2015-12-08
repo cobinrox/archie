@@ -1,3 +1,7 @@
+Git Installer for Windows
+================================
+Git-Gui Shawn Pearce et al
+
 After installing git
 ================================
 git config --global user.name 'some user name'
@@ -31,3 +35,8 @@ Check status wrt remote repo:
 ================================
 git remote update
 git status
+
+Undo local changes to a file
+================================
+get checkout theFile
+(checks out the file from local repo)
