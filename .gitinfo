@@ -1,3 +1,21 @@
+After installing git
+================================
+git config --global user.name 'some user name'
+git config --global user.email 'useremail@associatedWithGithublogin.com'
+git config --global color.ui 'auto'
+
+Download entire remote project:
+================================
+change to directory parent of where project is to lie
+git clone https://github.com/cobinrox/archie
+
+
+Create new repo
+================================
+create new remote repo on github, but disclude readme.md
+create new local repo on local box
+git init
+
 Commit new files/dirs:
 ================================
 git add --all
@@ -8,9 +26,6 @@ Download new files:
 ================================
 git pull
 
-Download entire repo:
-================================
-git clone https://github.com/cobinrox/archie
 
 Check status wrt remote repo:
 ================================
