@@ -70,8 +70,8 @@
       <file leaf-file-name=".gitinfo" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitinfo">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39952996">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.9588719">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -444,6 +444,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration useDefault="false">C:\Users\robin.cox\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="29568789-5fb7-426c-9622-20269916d416" name="Default" comment="" />
@@ -451,12 +454,12 @@
       <option name="number" value="Default" />
       <updated>1449424133663</updated>
       <workItem from="1449424136816" duration="644000" />
-      <workItem from="1449505958264" duration="2679000" />
+      <workItem from="1449505958264" duration="3912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3323000" />
+    <option name="totallyTimeSpent" value="4556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="-2" width="1920" height="1034" extended-state="0" />
@@ -488,6 +491,14 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -542,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitinfo">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39952996">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.9588719">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
           <folding />
         </state>
       </provider>

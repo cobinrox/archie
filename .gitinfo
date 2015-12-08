@@ -33,6 +33,8 @@ git pull
 
 Check status wrt remote repo:
 ================================
+git diff origin/master
+-- or --
 git remote update
 git status
 
@@ -40,3 +42,8 @@ Undo local changes to a file
 ================================
 get checkout theFile
 (checks out the file from local repo)
+
+Tar project files, exclusing .git directory
+===========================================
+cd ..
+tar cJf project.tar.xz project/ --exclude-vcs
